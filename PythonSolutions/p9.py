@@ -79,3 +79,14 @@ myGraph.build_graph(testCase1)
 print(myGraph.get_largest_path())
 myGraph.build_graph(testCase2)
 print(myGraph.get_largest_path())
+
+"""
+OUTPUT:
+
+[-2, 2, 2, -1, 9, -2, 8, 7, 3, 2]
+22
+13
+10
+[Finished in 0.3s]
+
+"""

@@ -1,0 +1,1 @@
+Each file here has a problem in it with at least one solution. Occationaly there will be multiple answers if the problem has a follow-up quation or there are distinct advantages to different solution. Advantages include things like tradeoff between time complexity and space complexity. 

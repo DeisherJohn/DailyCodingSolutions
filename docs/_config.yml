@@ -72,13 +72,13 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   #rss: false
+  linkedin: john-deisher
+  github: DeisherJohn
   email: "john.deisher2013@gmail.com"
   #facebook: deisherjohn
-  github: DeisherJohn
 #  twitter: daattali
 #  reddit: yourname
 #  google-plus: +DeanAttali
-  linkedin: john-deisher
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78

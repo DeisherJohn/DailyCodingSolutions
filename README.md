@@ -1,5 +1,7 @@
 # DailyCodingProblems
-![alt text](https://imgur.com/bT8SDQI)
+
+
+![alt text](https://github.com/DeisherJohn/DailyCodingProblems/blob/master/image/github_thumbnail_bigger.png)
 
 
 A repo for holding daily coding problems I am working on

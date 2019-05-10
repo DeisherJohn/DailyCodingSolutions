@@ -5,12 +5,8 @@ subtitle: Portfolio for daily coding problems and solutions.
 use-site-title: true
 ---
 
-{% for post in site.posts %}{% if post.sticky %}
-* [{{post.title}}]({{post.url}}) {{post.date|date_to_string}}
-{% endif %}{% endfor %}
-
 <div class="posts-list">
-  {% for post in paginator.posts %}
+  {% for post in paginator.posts %}{% if post.sticky %}
   <article class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
 	  <h2 class="post-title">{{ post.title }}</h2>
@@ -57,7 +53,7 @@ use-site-title: true
     {% endif %}
 
    </article>
-  {% endfor %}
+  {% endif%}{% endfor %}
 </div>
 
 {% if paginator.total_pages > 1 %}

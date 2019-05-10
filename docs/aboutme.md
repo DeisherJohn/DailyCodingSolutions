@@ -7,11 +7,11 @@ subtitle: Insights into an Aggie Engineer
 My name is John Deisher. I am a computer engineering graduate from Texas A&M, Fightin' Texas Aggie class of '18. I am now living in Glebe, NSW, Australia where I continue to pursue my passion for coding and electronics. 
 
 Some of my skills include:
--Strong computer skills and fundamentals: C++, C, Python, Verilog.  
--Experience in creating consumer-driven programs and products.  
--Proficient multi-tasker. 
--Creative problem-solving and analysis skills. 
--Multidiscipline team leading experience. 
+- Strong computer skills and fundamentals: C++, C, Python, Verilog.  
+- Experience in creating consumer-driven programs and products.  
+- Proficient multi-tasker. 
+- Creative problem-solving and analysis skills. 
+- Multidiscipline team leading experience. 
 
 ### Looking for more? 
 For a more detailed list of past work experience, skills and projects visit my [LinkedIn](https://www.linkedin.com/in/john-deisher/) profile where my current resume can be found. 

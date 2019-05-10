@@ -4,7 +4,7 @@ title: Welcome!
 subtitle: Welcome to my daily coding solution site!
 gh-repo: DeisherJohn/DailyCodingProblems
 gh-badge: [star, fork, follow]
-tags: [Python]
+tags: [Python, Solutions]
 comments: true
 published: true
 sticky: true
@@ -38,7 +38,7 @@ This post contains a current list of the problems that have been solved in my [G
 | 16 | Circular Buffer with Thread Locks | [p16.py](https://github.com/DeisherJohn/DailyCodingProblems/blob/master/PythonSolutions/p16.py) ||
 | 17 | Directory String Parser | [p17.py](https://github.com/DeisherJohn/DailyCodingProblems/blob/master/PythonSolutions/p17.py) ||
 | 18 | Find Largest int in Sub-Array of Size(k) | [p18.py](https://github.com/DeisherJohn/DailyCodingProblems/blob/master/PythonSolutions/p18.py) ||
-| 19 | No Question |||
+| 19 | No Question Provided |||
 | 20 | Detecting Intersection of Singly Linked Lists | [p20.py](https://github.com/DeisherJohn/DailyCodingProblems/blob/master/PythonSolutions/p20.py) ||
 | 21 | Room Scheduler | [p21.py](https://github.com/DeisherJohn/DailyCodingProblems/blob/master/PythonSolutions/p21.py) ||
 | 22 | Sentence Parser based on Given Dictionary | [p22.py](https://github.com/DeisherJohn/DailyCodingProblems/blob/master/PythonSolutions/p22.py) ||

@@ -19,4 +19,4 @@ For a more detailed list of past work experience, skills and projects visit my [
 ### My view of the future of Computer Engineering
 I love that coding and electronics allow people to be able to reach beyond what they can do themselves. I believe that the future of most innovations lies at the intersection of programming, electronics, and everyday life.  The “Internet of Things” has shown the world that with a little investment and application of fundamental coding and engineering principals nearly any aspect of life can be automated. This push to bring the power of computing to simple daily activities is where I believe the strength of computer engineering shines. 
 
-Follow my coding projects on this site through GitHub to see my take on solutions for common coding interview questions from top companies. 
+Follow my coding projects on this site through [GitHub](https://github.com/DeisherJohn/DailyCodingProblems) to see my take on solutions for common coding interview questions from top companies. 

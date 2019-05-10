@@ -4,7 +4,7 @@ title: About me
 subtitle: Insights into an Aggie Engineer
 ---
 
-My name is John Deisher. I am a computer engineering graduate from Texas A&M, Fightin' Texas Aggie class of '18. I am now living in Glebe, NSW, Australia where I continue to pursue my passion for coding and electronics. 
+My name is John Deisher. I am a computer engineering graduate from Texas A&M University, Fightin' Texas Aggie class of '18. I am now living in Glebe, NSW, Australia where I continue to pursue my passion for coding and electronics. 
 
 Some of my skills include:
 - Strong computer skills and fundamentals: C++, C, Python, Verilog.  

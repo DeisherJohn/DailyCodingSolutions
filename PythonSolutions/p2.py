@@ -1,6 +1,6 @@
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-#   Program: Find sum in list
-#   Daily Problem #: 1
+#   Program: Find product of list
+#   Daily Problem #: 2
 #   Author: John Deisher
 #   Date Started: 5/7/19
 #   Date Finished: 5/7/19

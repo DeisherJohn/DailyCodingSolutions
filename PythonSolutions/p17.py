@@ -1,5 +1,5 @@
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-#   Program: Directory string parser
+#   Program: Directory String Parser
 #   Daily Problem #: 17
 #   Author: John Deisher
 #   Date Started: 5/8/2019

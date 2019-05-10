@@ -1,5 +1,5 @@
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-#   Program: Directory string parser
+#   Program: Find Largest int in Sub-Array of Size(k)
 #   Daily Problem #: 18
 #   Author: John Deisher
 #   Date Started: 5/8/2019

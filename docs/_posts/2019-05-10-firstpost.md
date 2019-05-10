@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Welcome!
-subtitle: Welcome to my daily coding solution site!
+title: Howdy!
+subtitle: My Daily Coding Solutions!
 gh-repo: DeisherJohn/DailyCodingProblems
 gh-badge: [star, fork, follow]
 tags: [Python, Solutions]
@@ -10,13 +10,13 @@ published: true
 sticky: true
 ---
 
-Welcome to my Github pages for posting solutions to daily coding problems. The focus of this site is to provide a place where solutions for interesting coding problems can be explored and analyzed. These problems will also serve as a coding portfolio for any potential employers. 
+Welcome to my Github pages for posting solutions to daily coding problems. The focus of this site is to provide a place where solutions for interesting coding problems can be explored and analyzed. These problems also serve as a coding portfolio for any potential employers. 
 
 If you are interested in contacting me, check out my [About Me](https://deisherjohn.github.io/DailyCodingProblems/aboutme/) page or the contact links at the bottom of the page. 
 
 <h2>Problems</h2>
 
-This post contains a current list of the problems that have been solved in my [GitHub](https://github.com/DeisherJohn/DailyCodingProblems) and a link to the file accociated with the solution. 
+This post contains a current list of the problems that have been solved in my [GitHub](https://github.com/DeisherJohn/DailyCodingProblems) and a link to the file accociated with the solution. Check out my detailed solutions how I approch the problems and other possible solutions I consider. 
 
 | # | Problem Summary | GitHub File (python) | Detailed Solution  |
 | :------ |:--- | :--- |:---|

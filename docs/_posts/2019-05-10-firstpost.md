@@ -49,4 +49,5 @@ This post contains a current list of the problems that have been solved in my [G
 | 27 | Checking for Well-Formed Brackets | [p27.py](https://github.com/DeisherJohn/DailyCodingProblems/blob/master/PythonSolutions/p27.py) ||
 | 28 | Text Justification | [p28.py - WIP](https://github.com/DeisherJohn/DailyCodingProblems/blob/master/PythonSolutions/p28.py) ||
 | 29 | Run Length Encoding/Decoding | [p29.py](https://github.com/DeisherJohn/DailyCodingProblems/blob/master/PythonSolutions/p29.py) ||
+| 30 | Valleys Full of Water | [p30.py-WIP](https://github.com/DeisherJohn/DailyCodingProblems/blob/master/PythonSolutions/p30.py) ||
 

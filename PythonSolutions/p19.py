@@ -3,7 +3,7 @@
 #   Daily Problem #: 19
 #   Author: John Deisher
 #   Date Started: 5/11/2019
-#   Date Finished:  
+#   Date Finished: 5/11/2019
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 """

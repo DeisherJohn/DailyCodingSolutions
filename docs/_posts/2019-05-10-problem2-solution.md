@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Review of Problems 1 to 5
-subtitle: Working with list and functional programming.
+title: Review and solution for problem 2
+subtitle: Working with list.
 gh-repo: DeisherJohn/DailyCodingProblems
 gh-badge: [star, fork, follow]
 categories: [list, binary trees]
@@ -10,16 +10,6 @@ comments: true
 published: true
 sticky: false
 ---
-
-These problems are mostly deal with different ways to use lists and how to travel in them. 
-
-| # | Problem Summary | GitHub File |
-| :------ |:--- | :--- |
-| 1 |  Find a given sum in a list of int | [p1.py](https://github.com/DeisherJohn/DailyCodingProblems/blob/master/PythonSolutions/p1.py) |
-| 2 | Find the product of all numbers in a list except i | [p2.py](https://github.com/DeisherJohn/DailyCodingProblems/blob/master/PythonSolutions/p2.py) |
-| 3 | Serialize and Deserialize a binary tree | [p3.py](https://github.com/DeisherJohn/DailyCodingProblems/blob/master/PythonSolutions/p3.py) |
-| 4 | Find the smalled missing int from a list | [p4.py](https://github.com/DeisherJohn/DailyCodingProblems/blob/master/PythonSolutions/p4.py) |
-| 5 | Functional programming tuple pairs | [p5.py](https://github.com/DeisherJohn/DailyCodingProblems/blob/master/PythonSolutions/p5.py) |
 
 ### Problem Review:
 

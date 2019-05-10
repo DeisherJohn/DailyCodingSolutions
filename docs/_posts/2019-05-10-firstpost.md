@@ -46,4 +46,5 @@ This post contains a current list of the problems that have been solved in my [G
 | 24 | Locking Binary Tree | [p24.py](https://github.com/DeisherJohn/DailyCodingProblems/blob/master/PythonSolutions/p24.py) ||
 | 25 | RegEx Parser | [p25.py](https://github.com/DeisherJohn/DailyCodingProblems/blob/master/PythonSolutions/p25.py) ||
 | 26 | Remove k-th to Last Item from a Singly Linked List | [p26.py](https://github.com/DeisherJohn/DailyCodingProblems/blob/master/PythonSolutions/p26.py) ||
+| 27 | Checking for Well-Formed Brackets | [p27.py](https://github.com/DeisherJohn/DailyCodingProblems/blob/master/PythonSolutions/p27.py) ||
 

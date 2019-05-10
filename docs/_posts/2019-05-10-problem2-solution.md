@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Review and solution for problem 2
-subtitle: Working with list.
+subtitle: Find the product of all numbers in a list except i
 gh-repo: DeisherJohn/DailyCodingProblems
 gh-badge: [star, fork, follow]
 categories: [list, binary trees]
@@ -12,8 +12,6 @@ sticky: false
 ---
 
 ### Problem Review:
-
-problem: 2
 
 **Question**: This problem was asked by Uber.
 <p>Given an array of integers, return a new array such that each element at index i of the new array is the product of all the numbers in the original array except the one at i.</p>

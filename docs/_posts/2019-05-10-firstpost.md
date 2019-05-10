@@ -18,6 +18,15 @@ If you are interested in contacting me, check out my "About Me" page or the cont
 
 This post contains a current list of the problems that have been solved in my [GitHub](https://github.com/DeisherJohn/DailyCodingProblems) and a link to the file accociated with the solution. 
 
+| # | Problem Summary | GitHub File |
+| :------ |:--- | :--- |
+| 1 |  Find a given sum in a list of int | [p1.py](https://github.com/DeisherJohn/DailyCodingProblems/blob/master/PythonSolutions/p1.py) |
+| 2 | Find the product of all numbers in a list except i | [p2.py](https://github.com/DeisherJohn/DailyCodingProblems/blob/master/PythonSolutions/p1.py) |
+| 3 | Serialize and Deserialize a binary tree | [p3.py](https://github.com/DeisherJohn/DailyCodingProblems/blob/master/PythonSolutions/p3.py) |
+| 4 | Find the smalled missing int from a list | [p4.py](https://github.com/DeisherJohn/DailyCodingProblems/blob/master/PythonSolutions/p4.py) |
+| 5 | Functional programming tuple pairs | [p5.py](https://github.com/DeisherJohn/DailyCodingProblems/blob/master/PythonSolutions/p5.py) |
+
+
 - Problem 1: Find a given sum in a list of int
 -- [GitHub file: p1.py](https://github.com/DeisherJohn/DailyCodingProblems/blob/master/PythonSolutions/p1.py)
 - Problem 2: Find the product of all numbers in a list except i

@@ -10,6 +10,9 @@
 # If you are building a GitHub project page then use these settings:
 url: "https://deisherjohn.github.io/DailyCodingProblems"
 baseurl: "/DailyCodingProblems"
+#Local Testing
+#url: "http://127.0.0.1:4000/DailyCodingProblems/"
+#baseurl: ""
 
 # Of course don't forget to change the username and projectname to YOUR username and project
 
@@ -158,7 +161,7 @@ title-separator: "-"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "Australia/Sydney"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/

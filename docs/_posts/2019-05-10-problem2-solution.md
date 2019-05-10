@@ -90,17 +90,17 @@ This return the list we are looking for, now to look at the follow up question.
 
 **Follow-up: what if you cant use dividion?**
 
-This is a little harder if we still want to complete this in _O(n)_ time. My solution I found was using something like a doubly linked list that keeps track of the product of the nodes on its left and right 
+This is a little harder if we still want to complete this in _O(n)_ time. My solution is using something like a doubly linked list that keeps track of the product of the nodes on its left and right. 
 
 Here is an overview of how this can be accomplished. 
 
 <img src="{{ site.baseurl }}/img/DLL_with_product_info.png" width="800" height="400" alt="DLL with product information"/>
 
-As shown here when you are adding nodes to the list you initialize the product of left and right to 1. When a new node is added you take the previous nodes value and product of the left and multiply them to become the new nodes left product. Once all the nodes have been added iterate backwards through the list taking the value of the node to the right and multipying it by the product of the right. 
+As shown here when you are adding nodes to the list you initialize the product of left and right to 1. When a new node is added you take the previous nodes value and product of the left and multiply them to become the new nodes left product. Once all the nodes have been added iterate backward through the list taking the value of the node to the right and multiplying it by the product of the right. 
 
-Once you are back the the front of the list we need to go back through once more time but we have to make a new list to save the products we are about to calculate. Take the value of a nodes left product and right product and multiply them together to get what the list of nubmers would be without the node you are currently in. Add that new product to the return list and then move to the next node til you find the end of the list. 
+Once you are back the front of the list we need to go back through once more time but we have to make a new list to save the products we are about to calculate. Take the value of a nodes left product and right product and multiply them together to get what the list of numbers would be without the node you are currently in. Add that new product to the return list and then move to the next node til you find the end of the list. 
 
-There are a few ways to do this from a data structure viewpoint, once would be to locally store two lists to add the numbers to as you read them. I opted for a class based system as shown in the image above. Once benefit is that if it was required it would be less time consuming to add new nodes to either the beginning or end of the list. If a new node was added it would only require one pass of the data to update all nodes in the list. 
+There are a few ways to do this from a data structure viewpoint, once would be to locally store two lists to add the numbers to as you read them. I opted for a class-based system as shown in the image above. One benefit is that if it was required it would be less time consuming to add new nodes to either the beginning or end of the list. If a new node was added it would only require one pass of the data to update all nodes in the list.
 
 ```python
 class productListNode(object):

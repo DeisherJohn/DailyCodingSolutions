@@ -5,7 +5,7 @@ subtitle: Find the product of all numbers in a list except i
 gh-repo: DeisherJohn/DailyCodingProblems
 gh-badge: [star, fork, follow]
 categories: [list, binary trees]
-tags: [Python, Solutions]
+tags: [Python, Solutions, Lists]
 comments: true
 published: true
 sticky: false

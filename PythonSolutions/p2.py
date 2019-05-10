@@ -106,6 +106,9 @@ def main():
 	zeroTestCase = [1, 2, 3, 4, 5, 0]
 	doubleZeroTestCase = [1, 2, 0, 3, 4, 5, 0]
 
+	product_without_div(testCase1)
+
+
 	print("Test case 1: " + str(testCase1))
 	print("Output: " + str(products_of_numbers_without_ith(testCase1)))
 	print()

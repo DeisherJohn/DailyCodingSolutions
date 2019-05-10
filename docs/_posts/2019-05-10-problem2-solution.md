@@ -164,6 +164,7 @@ class productList(object):
 
 - Both answers use a run time complexity of _O(n)_
 - Answer one uses less space than answer two but both require _O(n)_ space, just scaled differently. 
+- Answer two is insulated against problems with multiplying by zero unlike answer one where we have to check. 
 
 If there is a reason you might have to constantly get products from the same list of numbers or a list that keeps having numbers added to it the class based approch might have useful features in it. Overall if you are just looking for a one off process the first approch is much simpler and requires less memory to get the returned list. 
 

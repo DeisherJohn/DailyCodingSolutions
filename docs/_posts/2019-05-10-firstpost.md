@@ -20,15 +20,11 @@ This post contains a current list of the problems that have been solved in my [G
 
 - Problem 1: Find a given sum in a list of int
 -- [GitHub file: p1.py](https://github.com/DeisherJohn/DailyCodingProblems/blob/master/PythonSolutions/p1.py)
-
 - Problem 2: Find the product of all numbers in a list except i
 -- [GitHub file: p2.py](https://github.com/DeisherJohn/DailyCodingProblems/blob/master/PythonSolutions/p2.py)
-
 - Problem 3: Serialize and Deserialize a binary tree
 -- [GitHub file: p3.py](https://github.com/DeisherJohn/DailyCodingProblems/blob/master/PythonSolutions/p3.py)
-
 - Problem 4: Find the smalled missing int from a list
 -- [GitHub file: p4.py](https://github.com/DeisherJohn/DailyCodingProblems/blob/master/PythonSolutions/p4.py)
-
 - Problem 5: Functional programming tuple pairs
 -- [GitHub file: p5.py](https://github.com/DeisherJohn/DailyCodingProblems/blob/master/PythonSolutions/p5.py)

@@ -6,7 +6,6 @@ use-site-title: true
 ---
 
 <div class="posts-list">
-  <h1>Sticky Posts</h1>
   {% for post in paginator.posts %}{% if post.sticky %}
   <article class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
@@ -56,7 +55,6 @@ use-site-title: true
    </article>
   {% endif%}{% endfor %}
 
-  <h1>Posts</h1>
   {% for post in paginator.posts %}{% unless post.sticky %}
   <article class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">

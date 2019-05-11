@@ -35,6 +35,8 @@ return False
 
 This does check for the solution but is also very costly for time having _O(n<sup>2</sup>)_ time complexity. 
 
+**Answer Two**
+
 Assuming that the a space complexity of _O(n)_ is acceptable, a better option would be to remember the previous numbers as you iterate the list the first time. To meet the requirement of _O(n)_ however we need to store numbers we have seen in a way that is easy to recall. Python's set() data structures have a constant lookup and insertions time since they are based on hash tables. Using a set to store the complemetns of any numbers we check will allow us to make only one pass of the data. 
 
 The following code runs in _O(n)_ time and has a space complexity of _O(n)_. 

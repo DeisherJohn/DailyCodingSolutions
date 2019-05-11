@@ -10,3 +10,5 @@ pathDetail = "[Link](https://deisherjohn.github.io/DailyCodingProblems/"
 WIP = ""
 
 print("| " + str(index) + " | "  + Summery + " | [p" + str(index) + ".py"+WIP+"](" + gitPyPath + str(index) + ".py) |" + pathDetail + Details + ")|" )
+
+

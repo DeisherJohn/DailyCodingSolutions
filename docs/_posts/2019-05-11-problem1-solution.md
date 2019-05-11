@@ -7,7 +7,7 @@ gh-badge: [star, fork, follow]
 categories: [list]
 tags: [Python, Solutions, Lists]
 comments: true
-published: false
+published: true
 sticky: false
 ---
 

@@ -25,13 +25,14 @@ seed(time())
 
 def findSum(inputList, sumToFind):
 
-	complementList = list()
+	complementSet = set()
 
 	for item in inputList:
-		if item in complementList:
+		if item in complementSet:
 			return True
-		else:
-			complementList.append(sumToFind - item)
+		elif (sumToFind - item) not in complementSet:
+			complementSet.add(sumToFind - item)
+
 	return False
 	pass
 
@@ -41,7 +42,7 @@ def main():
 	testCase2 = list()
 
 	for _ in range(10):
-		testCase2.append(randint(0,10))
+		testCase2.append(randint(-5,10))
 
 	testItem1 = randint(5,15)
 	testItem2 = randint(5,15)
@@ -61,4 +62,4 @@ Is sum 17 in [10, 15, 3, 7] : True
 Is sum 3 in [1, 1, 8, 4, 9, 10, 1, 7, 2, 1] : True
 Is sum 7 in [1, 1, 8, 4, 9, 10, 1, 7, 2, 1] : False
 [Finished in 0.3s]
-""
+"""

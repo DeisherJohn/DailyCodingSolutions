@@ -4,7 +4,7 @@ title: Review and solution for problem 2
 subtitle: Find the product of all numbers in a list except i
 gh-repo: DeisherJohn/DailyCodingProblems
 gh-badge: [star, fork, follow]
-categories: [list, binary trees]
+categories: [list]
 tags: [Python, Solutions, Lists]
 comments: true
 published: true

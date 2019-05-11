@@ -113,7 +113,7 @@ url-pretty: "https://deisherjohn.github.io/DailyCodingProblems"  # eg. "deanatta
 #gtag: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "UA-139959118-1"
 
 # Google Tag Manager ID
 #gtm: ""

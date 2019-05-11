@@ -45,8 +45,8 @@ complementSet = set()
 for num in inputList:
     if num in complementSet:
         return True
-    elif (sumToFind - num) not in complementSet:
-        complementSet.add(sumToFind - num)
+    elif (k - num) not in complementSet:
+        complementSet.add(k - num)
 
 return False
 ```

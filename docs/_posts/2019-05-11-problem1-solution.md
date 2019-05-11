@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Review and solution for problem 1
-subtitle: Find a Given Sum in a List of Numbers
+subtitle: Find a given sum in a list of numbers
 gh-repo: DeisherJohn/DailyCodingProblems
 gh-badge: [star, fork, follow]
 categories: [list]

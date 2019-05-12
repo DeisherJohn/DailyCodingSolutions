@@ -50,7 +50,7 @@ subtitle: An Computer Aggie Engineer
             <li>Multi-discipline team leading experience.</li> 
         </ul>
     <h3>Looking for more?</h3> 
-        <p>For a more detailed list of past work experience, skills and projects visit my <a href="https://www.linkedin.com/in/john-deisher/">LinkedIn</a> profile where my current resume can be found. </p>
+        <p>For a more detailed list of past work experience, skills and projects visit my <a href="https://www.linkedin.com/in/john-deisher/" style="display: inline;">LinkedIn</a> profile where my current resume can be found. </p>
     <div>
         <h2 class="h2-seperator">Projects</h2>
             <h3><u>Daily Coding Solutions</u></h3>

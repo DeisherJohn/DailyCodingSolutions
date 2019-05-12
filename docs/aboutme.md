@@ -9,9 +9,9 @@ My name is John Deisher. I am a computer engineering graduate from Texas A&M Uni
 Some of my skills include:
 - Strong computer skills and fundamentals: C++, C, Python, Verilog.  
 - Experience in creating consumer-driven programs and products.  
-- Proficient multi-tasker. 
+- Proficient at multitasking. 
 - Creative problem-solving and analysis skills. 
-- Multidiscipline team leading experience. 
+- Multi-discipline team leading experience. 
 
 ### Looking for more? 
 For a more detailed list of past work experience, skills and projects visit my [LinkedIn](https://www.linkedin.com/in/john-deisher/) profile where my current resume can be found. 

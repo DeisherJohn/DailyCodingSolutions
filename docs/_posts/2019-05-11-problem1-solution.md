@@ -23,7 +23,7 @@ _Bonus: Can you do this in one pass?_
 
 **Answer One**
 
-For this problem there are many ways to solve it, first being a brute force approch. 
+For this problem there are many ways to solve it, first being a brute force approach. 
 
 ```python
 for i, num in enumerate(inputList, 1):
@@ -37,7 +37,7 @@ This does check for the solution but is also very costly for time having _O(n<su
 
 **Answer Two**
 
-Assuming that the a space complexity of _O(n)_ is acceptable, a better option would be to remember the previous numbers as you iterate the list the first time. To meet the requirement of _O(n)_ however we need to store numbers we have seen in a way that is easy to recall. Python's set() data structures have a constant lookup and insertions time since they are based on hash tables. Using a set to store the complemetns of any numbers we check will allow us to make only one pass of the data. 
+Assuming that the a space complexity of _O(n)_ is acceptable, a better option would be to remember the previous numbers as you iterate the list the first time. To meet the requirement of _O(n)_ however we need to store numbers we have seen in a way that is easy to recall. Python's set() data structures have a constant lookup and insertions time since they are based on hash tables. Using a set to store the complements of any numbers we check will allow us to make only one pass of the data. 
 
 The following code runs in _O(n)_ time and has a space complexity of _O(n)_. 
 
@@ -58,6 +58,6 @@ return False
 - The brute force options is _O(n<sup>2</sup>)_ time complexity and _O(1)_ space complexity.
 - The complement set searching options is _O(n)_ time complexity and _O(n)_ space complexity.
 
-The set searching algorithm here is much better and in general if you are having to check for values in lists using sets can save time by having thier constant lookup costs. 
+The set searching algorithm here is much better and in general if you are having to check for values in lists using sets can save time by having their constant lookup costs. 
 
 If you have any questions feel free to send me a message though my [LinkedIn](https://www.linkedin.com/in/john-deisher/) or email provided in the footer.

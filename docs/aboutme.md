@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: An Computer Aggie Engineer
+subtitle: An Aggie Computer Engineer
 ---
 
 <html>

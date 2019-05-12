@@ -68,7 +68,7 @@ subtitle: An Computer Aggie Engineer
     <div>
         <h2 class="h2-seperator">My view of the future</h2>
             <p>I love that coding and electronics allow people to be able to reach beyond what they can do themselves. I believe that the future of most innovations lies at the intersection of programming, electronics, and everyday life.  The “Internet of Things” has shown the world that with a little investment and application of fundamental coding and engineering principals nearly any aspect of life can be automated. This push to bring the power of computing to simple daily activities is where I believe the strength of computer engineering shines.</p>
-        <p>Follow my coding projects on this site through <a href="https://github.com/DeisherJohn/DailyCodingSolutions">GitHub</a> to see my take on solutions for common coding interview questions from top companies. </p>
+        <p>Follow my coding projects on this site through <a href="https://github.com/DeisherJohn/DailyCodingSolutions" style="display: inline;">GitHub</a> to see my take on solutions for common coding interview questions from top companies. </p>
     </div>
 </div>
     

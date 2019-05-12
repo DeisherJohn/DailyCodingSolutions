@@ -2424,6 +2424,9 @@ table th[class*="col-"] {
   overflow-x: auto;
 }
 @media screen and (max-width: 767px) {
+  .sidenavleft {padding-top: 15px;}
+  .sidenavleft a {font-size: 18px;}
+
   .table-responsive {
     width: 100%;
     margin-bottom: 15px;
@@ -6563,4 +6566,50 @@ button.close {
     display: none !important;
   }
 }
+
+[class*="sidenav-"]{
+  height: 100%;
+  width: 25%;
+  z-index: 1;
+  top: 0;
+  background-color: #500000;
+  color: #C8C8C8;
+  overflow-x: hidden;
+  overflow-y: auto;
+  padding-top: 80px;
+  text-align: left;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.sidenav-left {
+  left: 0;
+  position: fixed;
+}
+
+.sidenav-right {
+  position: fixed;
+  right: 0;
+  text-align: center;
+}
+.main {
+  /*margin-left: 0px;  Same as the width of the sidenav */
+  padding: 0px 10px;
+  text-align: left;
+}
+.main a {
+  padding: 2px 2px 2px 2px;
+  text-decoration: none;
+  font-size: 20px;
+  display: block;
+}
+.main a:hover {
+  color: #C8C8C8;
+}
 /*# sourceMappingURL=bootstrap.css.map */
+
+.h2-seperator {
+  text-align: center;
+  display: block;
+  background-color: #9e9e9e;
+  padding: 4px 4px 4px 4px;
+}

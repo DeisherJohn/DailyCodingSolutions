@@ -4,14 +4,14 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (https://username.github.io) then use these settings:
-#url: https://deisherjohn.github.io/DailyCodingProblems/
+#url: https://deisherjohn.github.io/DailyCodingSolutions/
 #baseurl: https://deisherjohn.github.io/
 
 # If you are building a GitHub project page then use these settings:
-url: "https://deisherjohn.github.io/DailyCodingProblems"
-baseurl: "/DailyCodingProblems"
+url: "https://deisherjohn.github.io/DailyCodingSolutions"
+baseurl: "/DailyCodingSolutions"
 #Local Testing
-#url: "http://127.0.0.1:4000/DailyCodingProblems/"
+#url: "http://127.0.0.1:4000/DailyCodingSolutions/"
 #baseurl: ""
 
 # Of course don't forget to change the username and projectname to YOUR username and project
@@ -105,7 +105,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "https://deisherjohn.github.io/DailyCodingProblems"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "https://deisherjohn.github.io/DailyCodingSolutions"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 

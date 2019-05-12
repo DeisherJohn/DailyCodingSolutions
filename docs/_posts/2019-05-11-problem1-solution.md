@@ -2,7 +2,7 @@
 layout: post
 title: Review and solution for problem 1
 subtitle: Find a given sum in a list of numbers
-gh-repo: DeisherJohn/DailyCodingProblems
+gh-repo: DeisherJohn/DailyCodingSolutions
 gh-badge: [star, fork, follow]
 categories: [list]
 tags: [Python, Solutions, Lists]

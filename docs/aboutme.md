@@ -51,9 +51,9 @@ subtitle: An Computer Aggie Engineer
         </ul>
     <h3>Looking for more?</h3> 
         <p>For a more detailed list of past work experience, skills and projects visit my <a href="https://www.linkedin.com/in/john-deisher/">LinkedIn</a> profile where my current resume can be found. </p>
-    <div>
-        <h2 class="h2-seperator">Projects</h2>
-            <h3><u>Daily Coding Problems</u></h3>
+    <div class="projects">
+        <h2>Projects</h2>
+            <h3><u>Daily Coding Solutions</u></h3>
                 <p style="padding-left: 10px">Project type: Website, Python, C++ <br>
                 <a href="https://deisherjohn.github.io/DailyCodingSolutions/">Website</a>
                 <a href="https://github.com/DeisherJohn/DailyCodingSolutions">GitHub Repo</a>
@@ -66,7 +66,7 @@ subtitle: An Computer Aggie Engineer
                 </p>
     </div>
     <div>
-        <h2 class="h2-seperator">My view of the future</h2>
+        <h2>My view of the future</h2>
             <p>I love that coding and electronics allow people to be able to reach beyond what they can do themselves. I believe that the future of most innovations lies at the intersection of programming, electronics, and everyday life.  The “Internet of Things” has shown the world that with a little investment and application of fundamental coding and engineering principals nearly any aspect of life can be automated. This push to bring the power of computing to simple daily activities is where I believe the strength of computer engineering shines.</p>
         <p>Follow my coding projects on this site through <a href="https://github.com/DeisherJohn/DailyCodingSolutions">GitHub</a> to see my take on solutions for common coding interview questions from top companies. </p>
     </div>

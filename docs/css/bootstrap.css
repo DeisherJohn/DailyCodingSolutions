@@ -6610,7 +6610,7 @@ button.close {
 
 .h2-seperator {
   text-align: center;
-  display: block;
+  display:block;
   background-color: #9e9e9e;
   padding: 4px 4px 4px 4px;
 }

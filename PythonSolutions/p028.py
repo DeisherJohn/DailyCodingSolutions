@@ -33,4 +33,47 @@ and k = 16, you should return the following:
 "the   lazy   dog"] # 4 extra spaces distributed evenly
 """
 
-#WIP
+def justify_text(s, k):
+
+    line_char_count = 0
+    lines = list()
+    charsOnLine = list()
+    for word in s:
+        if line_char_count is 0 or (line_char_count + len(word) + 1) > k:
+            lines.append([word])
+            if line_char_count is not 0:
+                charsOnLine.append(line_char_count)
+            line_char_count = len(word)
+        else:
+            line_char_count += len(word) + 1
+            lines[-1].append(" " + word )
+
+    charsOnLine.append(line_char_count)
+
+    returnList = list()
+    for i , line in enumerate(lines):  
+        spaced = ""
+        ind = 0
+        while charsOnLine[i] < k:
+            line[ind] += " "
+            charsOnLine[i] += 1
+            ind = (ind + 1) % (len(line) - 1) if len(line) != 1 else 0
+            pass
+
+        spaced = ''.join(line)
+        returnList.append(spaced)
+
+    return returnList
+    pass
+
+# test = ["this", "hello", "world"]
+test = ["the", "quick", "brown", "fox", "jumps", "over", "the", "lazy", "dog"] 
+
+print(justify_text(test, 16))
+
+"""
+OUTPUT
+
+['the  quick brown', 'fox  jumps  over', 'the   lazy   dog']
+[Finished in 0.2s]
+"""

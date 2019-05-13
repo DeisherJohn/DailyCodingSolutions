@@ -1,14 +1,32 @@
+ProblemSummery = list()
+detailList = list()
 
 
-#| 29 | Run Length Encoding/Decoding | [p29.py](https://github.com/DeisherJohn/DailyCodingProblems/blob/master/PythonSolutions/p29.py) ||
+with open("problem_titles.txt", "r") as f:
+    for line in f:
+        ProblemSummery.append(line)
 
-index = 1
-Summery = "Find a given sum in a list of int"
-gitPyPath = "https://github.com/DeisherJohn/DailyCodingProblems/blob/master/PythonSolutions/p"
-Details = "2019-05-11-problem1-solution"
-pathDetail = "[Link](https://deisherjohn.github.io/DailyCodingProblems/"
-WIP = ""
+with open("details_pages.txt", "r") as f:
+    for line in f:
+        detailList.append(line)
 
-print("| " + str(index) + " | "  + Summery + " | [p" + str(index) + ".py"+WIP+"](" + gitPyPath + str(index) + ".py) |" + pathDetail + Details + ")|" )
+gitPyPath = "https://github.com/DeisherJohn/DailyCodingSolutions/blob/master/PythonSolutions/p"
+gitCppPath = "https://github.com/DeisherJohn/DailyCodingSolutions/blob/master/CppSolutions/p"
+pathDetail = "[Link](https://deisherjohn.github.io/DailyCodingSolutions/"
+with open("problemIndexTable.txt", "w+") as f:
+    for i, problem in enumerate(ProblemSummery, 1):
 
+        pNum = str(i)
 
+        if i < 10:
+            pNum = '0'+pNum
+
+        if i < 100:
+            pNum = '0'+pNum
+
+        textString = "| " + pNum + " | "  + ProblemSummery[i-1][:-1] + " | [p" + pNum + ".py](" + gitPyPath + pNum + ".py)/[p" + pNum + ".cpp](" + gitCppPath + pNum + ".cpp)|"
+        if detailList[i-1] is not '\n':
+            textString += pathDetail + detailList[i-1][:-1] + ")"
+        textString += "|"
+        
+        f.write(textString + '\n')

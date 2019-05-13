@@ -16,11 +16,11 @@ If you are interested in contacting me, check out my [About Me](https://deisherj
 
 <h2>Problems</h2>
 
-This post contains a current list of the problems that have been solved in my [GitHub](https://github.com/DeisherJohn/DailyCodingSolutions) and a link to the file associated with the solution. Check out my detailed solutions how I approach the problems and other possible solutions I consider. 
+This post contains a current list of the problems that have been solved in my [GitHub](https://github.com/DeisherJohn/DailyCodingSolutions) plus a link to the file associated with the solution. Check out my detailed solutions, how I approach the problems and other possible solutions I consider. 
 
 | # | Problem Summary | GitHub File (python) | Detailed Solution  |
 | :------ |:--- | :--- |:---|
-| 1 | Find a given sum in a list of int | [p1.py](https://github.com/DeisherJohn/DailyCodingSolutions/blob/master/PythonSolutions/p1.py) |[Link](https://deisherjohn.github.io/DailyCodingSolutions/2019-05-11-problem1-solution)|
+| 1 | Find a given sum in a list of int | [p1.py](https://github.com/DeisherJohn/DailyCodingSolutions/blob/master/PythonSolutions/p1.py)/[p001.cpp](https://github.com/DeisherJohn/DailyCodingSolutions/blob/master/CppSolutions/p001.cpp) |[Link](https://deisherjohn.github.io/DailyCodingSolutions/2019-05-11-problem1-solution)|
 | 2 | Find the product of all numbers in a list except the ith element | [p2.py](https://github.com/DeisherJohn/DailyCodingSolutions/blob/master/PythonSolutions/p2.py) | [Link](https://deisherjohn.github.io/DailyCodingSolutions/2019-05-10-problem2-solution/) |
 | 3 | Serialize and De-serialize a binary tree | [p3.py](https://github.com/DeisherJohn/DailyCodingSolutions/blob/master/PythonSolutions/p3.py) | |
 | 4 | Find the smalled missing int from a list | [p4.py](https://github.com/DeisherJohn/DailyCodingSolutions/blob/master/PythonSolutions/p4.py) ||

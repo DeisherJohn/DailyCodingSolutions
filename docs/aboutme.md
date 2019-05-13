@@ -7,7 +7,7 @@ subtitle: An Aggie Computer Engineer
 <html>
     <body>
         <div class="main">
-            <p>My name is John Deisher. I am a computer engineering graduate from Texas A&M University, Fightin' Texas Aggie class of '18. I am now living in Glebe, NSW, Australia where I continue to pursue my passion for coding and electronics.</p>
+            <p>My name is John Deisher. I am a computer engineering graduate from Texas A&M University Fightin' Texas Aggie class of '18 (located in Texas, USA). I am now living in Glebe, NSW, Australia where I continue to pursue my passion for coding and electronics.</p>
             <h2>Some of my skills include:</h2>
                 <ul>
                     <li>Strong computer skills and fundamentals: C++, C, Python, Verilog.</li>
@@ -40,7 +40,7 @@ subtitle: An Aggie Computer Engineer
             <div>
                 <h2 class="h2-seperator">Current Job Status:</h2>
                     <h3 style="text-align: center;">Seeking Employment</h3>
-                        <p>Currently I am seeking employment in the Sydney, Australia area. I am pursing opportunities in the tech industry with an interest in electronics integration and automation.</p>
+                        <p>Currently I am seeking employment in the Sydney, Australia area. Having recently graduated from Texas A&M University, I am pursing opportunities in computer engineering the tech industry with an interest in electronics integration and automation.</p>
                     <h2 style="text-align: center;">Previous Employment</h2>
                         <h3><u>Student Technician Level 3</u></h3>
                             <ul>

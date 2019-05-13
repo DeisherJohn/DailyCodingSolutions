@@ -40,7 +40,7 @@ subtitle: An Aggie Computer Engineer
             <div>
                 <h2 class="h2-seperator">Current Job Status:</h2>
                     <h3 style="text-align: center;">Seeking Employment</h3>
-                        <p>Currently I am seeking employment in the Sydney, Australia area. Having recently graduated from Texas A&M University, I am pursuing opportunities in computer engineering the tech industry with an interest in electronics integration and automation.</p>
+                        <p>Currently, I am seeking employment in the Sydney, Australia area. Having recently graduated from Texas A&M University, I am pursuing opportunities in computer engineering and the tech industry with an interest in electronics integration and automation.</p>
                     <h2 style="text-align: center;">Previous Employment</h2>
                         <h3><u>Student Technician Level 3</u></h3>
                             <ul>

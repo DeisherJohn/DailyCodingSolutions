@@ -82,24 +82,24 @@ string serialize(node * root){
 }
 
 node * deserialize(string * s){
-    if (s->size() == 0){
-        return NULL;
-    }
+    if (s->size() == 0){ return NULL; }
 
     string myString = "";
     node * myNode = new node();
+    
     while(s->size() > 0){
         if(s->at(0) == ';'){
             //end of name
             if(myString != "NULL"){
                 myNode->value = myString;
+                s = &s->replace(0,1,"");
                 myString = "";
             } else {
+                s = &s->replace(0,1,"");
                 return NULL;
             }
-            s = &s->replace(0,1,"");
+            
             myNode->left = deserialize(s);
-            s = &s->replace(0,1,"");
             myNode->right = deserialize(s);
             return myNode;
         } else {

@@ -23,14 +23,67 @@ For example, given the sequence [2, 1, 5, 7, 2, 0, 5], your algorithm should pri
 2
 2
 """
-from collections import OrderedDict
+
+class SortedList(object):
+    """docstring for SortedList"""
+    def __init__(self):
+        super(SortedList, self).__init__()
+        self.data = list()
+        self.length = 0
+
+    def add_item(self, item):
+        self.data.insert(0,item)
+        self.data.sort()
+        self.length += 1
+        pass
+    
+    def get_median(self):
+        mid = self.length//2
+        if self.length % 2 == 0:
+            #even
+            lower = (self.data[mid-1]) 
+            higher = self.data[mid]
+
+            return (higher + lower)/2
+        else:
+            #odd
+            return self.data[mid]
+
+
 
 testList = [2, 1, 5, 7, 2, 0, 5]
-myOrdDict = OrderedDict()
+sortList = SortedList()
 
 for i, num in enumerate(testList):
-    myOrdDict[i] = num
+    sortList.add_item(num)
+    print("\ndata: " + str(sortList.data))
+    print("Median is: " +str(sortList.get_median()))
 
 
+"""
+OUTPUT 
 
-print(myOrdDict)
+
+data: [2]
+Median is: 2
+
+data: [1, 2]
+Median is: 1.5
+
+data: [1, 2, 5]
+Median is: 2
+
+data: [1, 2, 5, 7]
+Median is: 3.5
+
+data: [1, 2, 2, 5, 7]
+Median is: 2
+
+data: [0, 1, 2, 2, 5, 7]
+Median is: 2.0
+
+data: [0, 1, 2, 2, 5, 5, 7]
+Median is: 2
+[Finished in 0.1s]
+
+"""

@@ -73,6 +73,8 @@ def main():
     testCases.append("google")
     testCases.append("aabzz")
     testCases.append("aaaab")
+    testCases.append("zyxwz")
+    testCases.append("zyxw")
 
     for test in testCases:
         print("Testing {} found {} as shortest palindrome".format(test, find_shortest_palindrome(test)))
@@ -89,5 +91,7 @@ Testing race found ecarace as shortest palindrome
 Testing google found elgoogle as shortest palindrome
 Testing aabzz found aabzzbaa as shortest palindrome
 Testing aaaab found baaaab as shortest palindrome
+Testing zyxwz found zwxyzyxwz as shortest palindrome
+Testing zyxw found wxyzyxw as shortest palindrome
 [Finished in 0.2s]
 """

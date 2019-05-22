@@ -1,6 +1,6 @@
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-#   Program: Palindrome Maker
-#   Daily Problem #: 34
+#   Program: Power Set Finder
+#   Daily Problem #: 37
 #   Author: John Deisher
 #   Date Started: 5/22/2019
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
